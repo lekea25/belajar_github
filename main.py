@@ -17,15 +17,14 @@
 #print(f"Set B: {setB}")
 #print(f"Intersection: {hasil}")'''
 
-#No 3
+#No. 3
 
-
-#No 1
+#No. 1
 '''Bagian dari program yang memiliki nama tertentu,''' 
 '''digunakan untuk mengerjakan suatu pekerjaan tertentu,''' 
 '''serta letaknya dipisahkan dari bagian program yang menggunakan fungsi tersebut.'''
 
-#No 2
+#No. 2
 '''If dan Else digunakan untuk percabangan.'''
 '''Elif digunakan ketika pernyataan if pertama tidak benar, tetapi anda ingin memeriksa kondisi lain.'''
 
